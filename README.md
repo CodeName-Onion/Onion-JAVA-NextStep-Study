@@ -1,13 +1,15 @@
 # Onion-JAVA-NextStep-Study✏️
-Java 학습을 위한 Onion 스터디 그룹의 첫 번째 학습 과정 입니다.
+Java 학습을 위한 Onion 스터디 그룹의 첫 번째 학습 과정 입니다.</br>
+교재 중심으로 스터디를 진행하여 기록하고자 합니다.
 </br></br></br></br>
+### :pushpin: 2022.12.16 ~
 
 ## 📖 교재 
-+ 자바 웹 프로그래밍 Next Step : 하나씩 벗겨가는 양파껍질 학습법, 로드맵
+### 자바 웹 프로그래밍 Next Step : 하나씩 벗겨가는 양파껍질 학습법, 로드맵</br></br>
+![image](https://user-images.githubusercontent.com/87069221/207885043-782e098b-5435-47bd-a17c-0b2d994fa6a6.png)</br>
+
+
 <br/><br/></br></br>
-## 📖 사용언어
-+ JAVA  
-<br/></br></br></br>
 ## 📖 학습목표
 &nbsp;&nbsp;&nbsp;
 <br/><br/></br></br>
